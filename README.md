@@ -1,4 +1,5 @@
-## Hi there 👋
+## HEY THERE ! 👋
+I’m currently pursuing bachelor of engineering CSE (AI & ML) degree
 
 <!--
 **Shailey07/Shailey07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
