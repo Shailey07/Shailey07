@@ -21,9 +21,8 @@ I'm pursuing B.E. in Computer Science Engineering (AI & ML) 🎓, and I'm buildi
 
 ### 📊 GitHub Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shailey07&show_icons=true&theme=radical)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=Shailey07&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shailey07&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shailey07&layout=compact&theme=radical)
-
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Shailey07&layout=compact&theme=radical)
